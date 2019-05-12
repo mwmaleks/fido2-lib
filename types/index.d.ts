@@ -24,7 +24,7 @@ declare module "fido2-lib" {
   }
 
   interface AuthenticatorSelectionCriteria {
-    attachment?: Attachment;
+    authenticatorAttachment?: Attachment;
     requireResidentKey?: boolean;
     userVerification?: UserVerification;
   }
