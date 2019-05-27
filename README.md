@@ -105,10 +105,3 @@ var authnResult = await f2l.attestationResult(clientAssertionResponse, assertion
 
 // authentication complete!
 ```
-
-For a real-life example, refer to [component-fido2](https://github.com/apowers313/component-fido2).
-
-## Sponsor
-Note that while I used to be Technical Director for FIDO Alliance (and I am currently the Technical Advisor for FIDO Alliance), THIS PROJECT IS NOT ENDORSED OR SPONSORED BY FIDO ALLIANCE.
-
-Work for this project is supported by my consulting company: [WebAuthn Consulting](https://webauthn.consulting/).
